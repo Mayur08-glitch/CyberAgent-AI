@@ -1,5 +1,5 @@
 # Building an AI Cybersecurity Agent with n8n & Wazuh (Agentic AI Security)
-
+CyberAgentWork.mp4
 ## Overview
 
 This project demonstrates how to build an **AI-powered Cybersecurity Agent** using n8n, Wazuh, and Agentic AI concepts. The agent automatically monitors security logs, detects anomalies, analyzes threats using AI, and performs automated response actions.
