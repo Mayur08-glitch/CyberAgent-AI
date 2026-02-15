@@ -7,7 +7,6 @@ This project demonstrates how to build an **AI-powered Cybersecurity Agent** usi
 The goal is to create an **intelligent, automated Security Operations Center (SOC) assistant** that reduces manual work and improves threat detection speed.
 
 ---
-
 ## Objectives
 
 * Automate security monitoring using Wazuh SIEM
@@ -213,9 +212,12 @@ AI-Cybersecurity-Agent/
 ## Author
 
 Mayur Pawar
+Rahul Gauda
+Pranay bhange
 Cybersecurity Student | AI Security Enthusiast
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Mayur08-glitch
+https://github.com/rahulgouda25
 
 ---
 
